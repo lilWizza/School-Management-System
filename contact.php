@@ -19,9 +19,9 @@
 			
 				<form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
 					
-					ASIAN SCHOOL OF MANAGEMENT AND TECHONOLGY <BR>
+					abc school OF MANAGEMENT AND TECHONOLGY <BR>
 					GONGABU, SAMAKHUSI<BR>
-					Mail - asian@gmail.com<br>Phone - 1234567890
+					Mail - abc@gmail.com<br>Phone - 1234567890
 				</form>
 			</div>
 		</div>
